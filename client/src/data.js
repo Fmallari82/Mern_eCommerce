@@ -38,4 +38,47 @@ export const categories = [
         img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p36_i3_w1500.png",
         title: "Stickers",
     },
+];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p52_i4_w3024.jpeg",
+    },
+    {
+        id: 2,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p47_i1_w1500.png",
+    },
+    {
+        id: 3,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p36_i3_w1500.png",
+    },
+    {
+        id: 4,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p52_i4_w3024.jpeg",
+    },
+    {
+        id: 5,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p47_i1_w1500.png",
+    },
+    {
+        id: 6,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p36_i3_w1500.png",
+    },
+    {
+        id: 7,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p52_i4_w3024.jpeg",
+    },
+    {
+        id: 8,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p47_i1_w1500.png",
+    },
+    {
+        id: 9,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p36_i3_w1500.png",
+    },
+    {
+        id: 10,
+        img: "https://www.wtfmir.shop/uploads/1/2/6/7/126700162/s706038638830521634_p52_i4_w3024.jpeg",
+    },
 ]
